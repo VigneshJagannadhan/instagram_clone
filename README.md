@@ -1,16 +1,8 @@
-# instagram_clone
+# instagram_clone by Vignesh Jagannadhan
 
-A new Flutter project.
+Made using flutter
 
-## Getting Started
+## Images
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-11-29 at 13 49 37](https://github.com/VigneshJagannadhan/instagram_clone/assets/72656201/8c35c362-5369-4895-ad18-990720e8c465)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-11-29 at 13 49 40](https://github.com/VigneshJagannadhan/instagram_clone/assets/72656201/aaec32d1-74a0-4963-aff6-32c42a21f870)
